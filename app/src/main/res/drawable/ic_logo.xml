@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Transparent Glass Background Circle -->
+    <path
+        android:fillColor="#E0F7FA"
+        android:pathData="M 54, 54 m -45, 0 a 45,45 0 1,0 90,0 a 45,45 0 1,0 -90,0" />
+    
+    <!-- White Glass Shine Border -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:pathData="M 54, 54 m -41, 0 a 41,41 0 1,0 82,0 a 41,41 0 1,0 -82,0" />
+    
+    <!-- DJ Record Center Hole -->
+    <path
+        android:fillColor="#B2EBF2"
+        android:pathData="M 54, 54 m -8, 0 a 8,8 0 1,0 16,0 a 8,8 0 1,0 -16,0" />
+        
+    <!-- The First 'S' -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M 51,35 L 31,35 L 31,52.5 L 46,52.5 L 46,62.5 L 31,62.5 L 31,70 L 51,70 L 51,47.5 L 36,47.5 L 36,42.5 L 51,42.5 Z" />
+        
+    <!-- The Second 'S' -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M 77,35 L 57,35 L 57,52.5 L 72,52.5 L 72,62.5 L 57,62.5 L 57,70 L 77,70 L 77,47.5 L 62,47.5 L 62,42.5 L 77,42.5 Z" />
+</vector>
